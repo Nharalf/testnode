@@ -1,2 +1,2 @@
 # testnode
-Test purpose only, useless project
+Test purpose only, empty project
